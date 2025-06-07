@@ -17,9 +17,10 @@ def say_hi(self):
 - 🌱 **Learning:** Data Structures, Algorithms, Competitive Programming, Full Stack Development
 - 🏆 **Competitive Programming Profiles:**
   https://codeforces.com/profile/coder615
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your_username)
-  [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_username/practice/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/coder615)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/parul_agrawal)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Parul_Agrawal/)
+  [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/agrawa8k6t/)
 
 ---
 
@@ -41,7 +42,6 @@ def say_hi(self):
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your_username&bg_color=1a1b27&color=00dbde&line=fc00ff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </p>
-
 ---
 
 ## 💡 Featured Projects
