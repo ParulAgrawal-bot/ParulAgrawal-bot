@@ -16,7 +16,6 @@ def say_hi(self):
 - 🎓 **Currently at:** Madhav Institute Of Technology And Science
 - 🌱 **Learning:** Data Structures, Algorithms, Competitive Programming, Full Stack Development
 - 🏆 **Competitive Programming Profiles:**
-  https://codeforces.com/profile/coder615
   [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/coder615)
   [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/parul_agrawal)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Parul_Agrawal/)
@@ -35,12 +34,12 @@ def say_hi(self):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParulAgrawal-bot&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParulAgrawal-bot&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your_username&bg_color=1a1b27&color=00dbde&line=fc00ff&point=ffffff&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ParulAgrawal-bot&bg_color=1a1b27&color=00dbde&line=fc00ff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </p>
 ---
 
