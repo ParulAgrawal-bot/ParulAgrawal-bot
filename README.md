@@ -41,9 +41,7 @@ def say_hi(self):
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ParulAgrawal-bot&bg_color=1a1b27&color=00dbde&line=fc00ff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </p>
----
 
-## 💡 Featured Projects
 
 
 
