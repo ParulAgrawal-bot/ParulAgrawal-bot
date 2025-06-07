@@ -1,7 +1,7 @@
 <!-- Profile README for your_username -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hi%20I'm%20ParulAgrawal-bot!&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=60&descAlign=62" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hi%20I'm%20ParulAgrawal!&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=60&descAlign=62" alt="header"/>
 </p>
 
 <p align="center">
@@ -9,8 +9,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
 
 
 
